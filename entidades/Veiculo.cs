@@ -1,4 +1,6 @@
-﻿public class Veiculo
+﻿namespace TrabalhoRevisao.entidades
+{ 
+public class Veiculo
 {
     public string idV;
     public string placa;
@@ -30,5 +32,6 @@
     }
 
 
+}
 }
 
