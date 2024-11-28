@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\infracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:infracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|c:\\users\\2023202060012\\source\\repos\\trabalhorevisao\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA581A6-2833-4A06-BA4D-36F8BE8C5835}|TrabalhoRevisao.csproj|solutionrelative:multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Proprietario.cs",
+              "RelativeDocumentMoniker": "Proprietario.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Proprietario.cs",
+              "RelativeToolTip": "Proprietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:18:50.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infracao.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Infracao.cs",
+              "RelativeDocumentMoniker": "Infracao.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Infracao.cs",
+              "RelativeToolTip": "Infracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Cidade.cs",
+              "RelativeDocumentMoniker": "Cidade.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Cidade.cs",
+              "RelativeToolTip": "Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Estado.cs",
+              "RelativeDocumentMoniker": "Estado.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Estado.cs",
+              "RelativeToolTip": "Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:01:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cnh.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Cnh.cs",
+              "RelativeDocumentMoniker": "Cnh.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Cnh.cs",
+              "RelativeToolTip": "Cnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:58:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Marca.cs",
+              "RelativeDocumentMoniker": "Marca.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Marca.cs",
+              "RelativeToolTip": "Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:01:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Modelo.cs",
+              "RelativeDocumentMoniker": "Modelo.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Modelo.cs",
+              "RelativeToolTip": "Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:00:53.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Multa.cs",
+              "RelativeDocumentMoniker": "Multa.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Multa.cs",
+              "RelativeToolTip": "Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:03:23.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vistoriador.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Vistoriador.cs",
+              "RelativeDocumentMoniker": "Vistoriador.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Vistoriador.cs",
+              "RelativeToolTip": "Vistoriador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vistoria.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Vistoria.cs",
+              "RelativeDocumentMoniker": "Vistoria.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Vistoria.cs",
+              "RelativeToolTip": "Vistoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:17.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProprietarioPJ.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\ProprietarioPJ.cs",
+              "RelativeDocumentMoniker": "ProprietarioPJ.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\ProprietarioPJ.cs",
+              "RelativeToolTip": "ProprietarioPJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:53:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProprietarioPF.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\ProprietarioPF.cs",
+              "RelativeDocumentMoniker": "ProprietarioPF.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\ProprietarioPF.cs",
+              "RelativeToolTip": "ProprietarioPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:53:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:31:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023202060012\\source\\repos\\TrabalhoRevisao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:30:40.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
